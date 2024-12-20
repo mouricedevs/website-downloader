@@ -1,0 +1,12 @@
+{
+    "name": "website-downloader",
+    "description": "Download Any Website to Your local Storage",
+    "logo": "https://www.google.com/inbox/assets/images/intro/intro-logo.png",
+    "repository": "https://github.com/mouricedevs/website-downloader",
+    "keywords": ["Gifted-Tech"],
+    "success_url": "/",
+    "stack": "heroku-24",
+    "buildpacks": [
+        { "url": "heroku/nodejs" }
+    ]
+}
